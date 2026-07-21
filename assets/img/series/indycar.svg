@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 70" role="img" aria-label="INDYCAR">
+<rect width="256" height="70" fill="none"/>
+<g transform="translate(8 10)">
+<path fill="#d71920" d="M8 25 31 6h29l-9 8h30l-7 7H43l-7 6h47l-8 8H27L15 45H0l13-12H4z"/>
+<path fill="#d71920" d="M78 7h14l-8 8H71zm-4 31h15l-9 8H65z"/>
+<text x="96" y="36" font-family="Arial Black,Arial,sans-serif" font-size="29" font-style="italic" font-weight="900" fill="#fff">INDYCAR</text>
+</g></svg>
