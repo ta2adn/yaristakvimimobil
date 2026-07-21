@@ -1,0 +1,583 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Formula 3 2026
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:formula3-1-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Practice
+DESCRIPTION:Melbourne - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-1-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Qualifying
+DESCRIPTION:Melbourne - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-1-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Sprint Race
+DESCRIPTION:Melbourne - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-1-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Feature Race
+DESCRIPTION:Melbourne - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-2-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Practice
+DESCRIPTION:Monte Carlo - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-2-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Qualifying
+DESCRIPTION:Monte Carlo - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-2-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Sprint Race
+DESCRIPTION:Monte Carlo - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-2-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Feature Race
+DESCRIPTION:Monte Carlo - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-3-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Practice
+DESCRIPTION:Barcelona - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-3-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Qualifying
+DESCRIPTION:Barcelona - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-3-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Sprint Race
+DESCRIPTION:Barcelona - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-3-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Feature Race
+DESCRIPTION:Barcelona - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-4-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Practice
+DESCRIPTION:Spielberg - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-4-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Qualifying
+DESCRIPTION:Spielberg - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-4-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Sprint Race
+DESCRIPTION:Spielberg - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-4-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Feature Race
+DESCRIPTION:Spielberg - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-5-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Practice
+DESCRIPTION:Silverstone - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-5-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Qualifying
+DESCRIPTION:Silverstone - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-5-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Sprint Race
+DESCRIPTION:Silverstone - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-5-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Feature Race
+DESCRIPTION:Silverstone - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-6-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Practice
+DESCRIPTION:Spa-Francorchamps - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-6-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Qualifying
+DESCRIPTION:Spa-Francorchamps - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-6-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Sprint Race
+DESCRIPTION:Spa-Francorchamps - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-6-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Feature Race
+DESCRIPTION:Spa-Francorchamps - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-7-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART:20260724T075500Z
+DTEND:20260724T084000Z
+SUMMARY:Practice
+DESCRIPTION:Budapest - Practice
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-7-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART:20260724T130000Z
+DTEND:20260724T133000Z
+SUMMARY:Qualifying
+DESCRIPTION:Budapest - Qualifying
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-7-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART:20260725T080500Z
+DTEND:20260725T085000Z
+SUMMARY:Sprint Race
+DESCRIPTION:Budapest
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-7-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART:20260726T064000Z
+DTEND:20260726T073000Z
+SUMMARY:Feature Race
+DESCRIPTION:Budapest
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-8-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Practice
+DESCRIPTION:Monza - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-8-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Qualifying
+DESCRIPTION:Monza - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-8-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Sprint Race
+DESCRIPTION:Monza - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-8-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Feature Race
+DESCRIPTION:Monza - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-9-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practice
+DESCRIPTION:Madrid - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-9-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Qualifying
+DESCRIPTION:Madrid - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-9-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Sprint Race
+DESCRIPTION:Madrid - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula3-9-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Feature Race
+DESCRIPTION:Madrid - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 3
+X-CHAMPIONSHIP:Formula 3
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+END:VCALENDAR

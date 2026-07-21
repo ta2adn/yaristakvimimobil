@@ -1,0 +1,773 @@
+:root{--bg:#030504;--panel:#070b0b;--panel2:#0b1111;--line:#27312f;--soft:#9aa3a1;--text:#f4f5f3;--yellow:#ffd400;--yellow2:#ffb900;--green:#38e458;--red:#ff3229}
+*{box-sizing:border-box}html{background:#020302;overflow-x:hidden}body{margin:0;overflow-x:hidden;color:var(--text);font-family:"Arial Narrow",Arial,sans-serif;background:radial-gradient(circle at 55% -10%,#15201b 0,transparent 31%),linear-gradient(#020403,#050706 50%,#020302);min-height:100vh}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.13;background-image:linear-gradient(45deg,#fff 1px,transparent 1px),linear-gradient(-45deg,#fff 1px,transparent 1px);background-size:8px 8px;mix-blend-mode:overlay}
+button,select{font:inherit}.wrap{width:min(1536px,calc(100% - 18px));margin:12px auto 0}.hero{position:relative;overflow:hidden;border:1px solid #29302c;border-radius:16px;background:#030504;box-shadow:0 18px 45px #000;isolation:isolate}.hero:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(0,0,0,.96) 0%,rgba(0,0,0,.54) 38%,rgba(0,0,0,.84) 68%,rgba(0,0,0,.96) 100%)}
+.flag-wave-bg{position:absolute;z-index:-2;inset:-26% 26% -20% 20%;width:66%;height:150%;object-fit:cover;opacity:.62;filter:grayscale(1) contrast(1.25) brightness(.72)}
+.hero-top{min-height:238px;padding:18px 24px 10px;display:grid;grid-template-columns:minmax(520px,1.2fr) 520px;gap:42px;align-items:center}.title-area h1{margin:0;text-transform:uppercase;font-family:Impact,"Arial Black",sans-serif;letter-spacing:.018em;line-height:.91;font-size:clamp(48px,5.5vw,82px);font-weight:950;color:var(--yellow);text-shadow:0 5px 0 #5a4600,0 10px 22px #000}.season-sub{margin:16px 0 0;font-size:27px;font-style:italic;font-weight:700;letter-spacing:.04em;color:#f5f5f2;text-transform:uppercase}
+.clock-panel{position:relative;min-height:196px;border:2px solid #3e4434;border-radius:20px;padding:15px 19px;background:linear-gradient(145deg,#111512,#020302 70%);box-shadow:inset 0 0 0 6px #070907,inset 0 0 28px #000,0 14px 32px #000}.clock-panel:after{content:"";position:absolute;inset:12px;border:3px solid var(--yellow);border-radius:15px;box-shadow:0 0 12px rgba(255,212,0,.75),inset 0 0 18px rgba(255,212,0,.18);pointer-events:none}.clock-screw{position:absolute;width:9px;height:9px;border-radius:50%;background:#74756d;border:2px solid #20211e;z-index:3}.s1{left:8px;top:8px}.s2{right:8px;top:8px}.s3{left:8px;bottom:8px}.s4{right:8px;bottom:8px}.clock-head{position:relative;z-index:2;padding:12px 28px 0;color:var(--yellow);font-size:21px;font-weight:900;font-style:italic;letter-spacing:.06em;text-transform:uppercase}.retro-time{display:block;position:relative;z-index:2;margin-top:5px;text-align:center;font-family:"Courier New",monospace;font-size:62px;line-height:1.15;letter-spacing:3px;color:var(--yellow);text-shadow:0 0 7px #ffec40,0 0 16px rgba(255,210,0,.65)}.clock-meta{position:relative;z-index:2;display:flex;justify-content:center;gap:18px;margin-top:7px;color:var(--yellow);font-size:14px;font-style:italic;font-weight:900;letter-spacing:.04em;text-transform:uppercase}
+.series-row{display:flex;gap:28px;align-items:center;justify-content:flex-start;padding:0 24px 16px;overflow:auto}.series-badge{flex:0 0 110px;height:54px;display:grid;place-items:center}.series-badge img{max-width:100%;max-height:44px;object-fit:contain}.series-badge.logo-light img{filter:brightness(0) invert(1)}
+main{margin-top:10px}.section{margin-top:10px;padding:10px;border:1px solid rgba(255,212,0,.34);border-radius:14px;background:linear-gradient(165deg,#080c0c,#030505);box-shadow:0 14px 35px #000}.week-toolbar{display:grid;grid-template-columns:48px 1fr 48px;gap:8px;align-items:center;margin-bottom:8px}.week-label{text-align:center;margin:0;color:var(--yellow);font-size:24px;font-weight:950;letter-spacing:.025em;text-transform:uppercase}.week-side{height:52px;border:1px solid #685a00;border-radius:8px;background:#080b09;position:relative;cursor:pointer}.week-side:before{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);border-top:12px solid transparent;border-bottom:12px solid transparent}.week-side-left:before{border-right:17px solid var(--yellow);margin-left:-2px}.week-side-right:before{border-left:17px solid var(--yellow);margin-left:2px}
+.calendar-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));overflow:hidden;border:1px solid #313937;border-radius:10px;background:#080b0b}.calendar-grid.day-view{grid-template-columns:minmax(0,1fr)}.day-column{position:relative;min-width:0;min-height:215px;padding:14px 8px 11px;text-align:center;border-right:1px solid #252d2b;background:linear-gradient(180deg,#0d1212,#060909);overflow:hidden}.day-column:last-child{border-right:0}.day-column.today{outline:2px solid var(--yellow);outline-offset:-2px;z-index:2;box-shadow:inset 0 0 22px rgba(255,212,0,.07)}.day-column__heading{padding-bottom:8px;border-bottom:1px solid #806c00}.day-column__heading strong{display:block;color:#d7d9d7;font-size:23px;font-weight:950;text-transform:uppercase}.day-column__heading span{display:block;margin-top:4px;color:var(--yellow);font-size:12px;font-weight:900}.day-column.today .day-column__heading strong{color:var(--yellow)}.day-column__empty{color:#858b88;font-size:12px;margin-top:18px}
+.event-card{margin:9px 0 0;padding:9px;text-align:left;border:1px solid #2a3330;border-left:3px solid var(--yellow);border-radius:7px;background:linear-gradient(145deg,#111616,#070909);box-shadow:0 6px 14px rgba(0,0,0,.35)}.event-card.past{opacity:.38}.event-card__topline{display:flex;justify-content:space-between;gap:8px;color:var(--yellow);font-size:10px;font-weight:900;text-transform:uppercase}.event-card__event{margin:6px 0 2px;font-size:13px}.event-card__session{margin:0 0 6px;color:#ddd;font-size:12px;font-weight:700}.event-card__time{display:block;color:var(--yellow);font-size:16px;font-weight:900}.event-card__location{margin:4px 0 0;color:var(--soft);font-size:11px}
+.program-head{display:flex;align-items:center;gap:16px;padding:2px 6px 4px;overflow:auto}.section-head h2{margin:0;color:var(--yellow);font-size:21px;text-transform:uppercase;white-space:nowrap}.filters{display:flex;gap:8px}.filter-btn,select{height:38px;padding:0 14px;border:1px solid #34403c;border-radius:6px;background:linear-gradient(#111616,#080b0b);color:#ddd;font-weight:900;cursor:pointer}.filter-btn.active,.filter-btn:hover,select:focus{border-color:#8f7900;color:var(--yellow)}.view-pill{margin-left:auto;border:1px solid #3c4542;border-radius:6px;padding:9px 15px;font-weight:800;white-space:nowrap}.view-pill:before{content:"▣";color:var(--yellow);margin-right:9px}.status-text{margin:8px 6px 0;color:var(--soft);font-size:12px}.error-message{padding:20px;color:#ffb4b4;background:#2b1111;border:1px solid #7f1d1d;border-radius:10px}.site-footer{padding:12px;text-align:center;color:#888f8c;font-size:12px}
+@media(max-width:1100px){.hero-top{grid-template-columns:1fr;gap:18px}.clock-panel{max-width:620px}.calendar-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.day-column{border-bottom:1px solid #252d2b}.program-head{flex-wrap:wrap}.view-pill{margin-left:0}}
+@media(max-width:650px){.wrap{width:min(100% - 10px,1536px)}.hero-top{padding:18px 14px}.title-area h1{font-size:45px}.season-sub{font-size:17px}.clock-panel{min-height:170px}.retro-time{font-size:43px}.clock-meta{font-size:11px;flex-direction:column;gap:2px;text-align:center}.series-row{padding-inline:14px;gap:16px}.series-badge{flex-basis:82px}.calendar-grid{grid-template-columns:1fr}.week-label{font-size:17px}.program-head{align-items:stretch;flex-direction:column}.filters{flex-wrap:wrap}select{width:100%}}
+
+/* Haftalık özet: yalnızca şampiyona logoları */
+.day-column{appearance:none;width:100%;font:inherit;color:inherit;cursor:pointer}
+.day-column:hover{background:linear-gradient(180deg,#151b1a,#080c0b)}
+.day-column.selected{outline:2px solid #8f7900;outline-offset:-3px;box-shadow:inset 0 0 24px rgba(255,212,0,.11)}
+.day-column.today.selected{outline-color:var(--yellow)}
+.day-column__logos{min-height:126px;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:10px;padding:14px 4px}
+.week-logo{width:100%;height:40px;display:grid;place-items:center}
+.week-logo img{max-width:92%;max-height:36px;object-fit:contain}
+.week-logo span{padding:6px 8px;border:1px solid #5c5100;border-radius:5px;color:var(--yellow);font-size:11px;font-weight:900;text-transform:uppercase}
+
+/* Günlük ayrıntılı program */
+.program-head{justify-content:space-between;overflow:visible;border-bottom:1px solid #343c39;padding:5px 8px 12px}
+.section-head{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap}
+.program-date{margin:0;color:#d9ddda;font-size:15px;font-weight:800;text-transform:capitalize}
+.daily-program{min-height:118px;padding:10px 4px 2px;display:flex;flex-direction:column;gap:8px}
+.daily-program.empty{min-height:118px}
+.program-card{position:relative;display:grid;grid-template-columns:135px 130px minmax(0,1fr) auto;gap:16px;align-items:center;min-height:106px;padding:13px 15px;border:1px solid #303936;border-left:4px solid var(--yellow);border-radius:9px;background:linear-gradient(145deg,#111716,#070a09);box-shadow:0 8px 18px rgba(0,0,0,.35)}
+.program-card.past{opacity:.42}
+.program-card__logo{height:62px;display:grid;place-items:center;padding-right:12px;border-right:1px solid #303936}
+.program-card__logo img{max-width:110px;max-height:50px;object-fit:contain}
+.program-card__logo span{color:var(--yellow);font-weight:900;text-align:center;text-transform:uppercase}
+.program-card__time{color:var(--yellow);font-family:"Arial Narrow",Arial,sans-serif;font-size:23px;font-weight:950;text-align:center;white-space:nowrap}
+.program-card__details{min-width:0}
+.program-card__championship{color:var(--yellow);font-size:11px;font-weight:900;letter-spacing:.06em;text-transform:uppercase}
+.program-card__details h3{margin:3px 0 2px;font-size:20px;text-transform:uppercase}
+.program-card__event{font-size:15px;font-weight:800;color:#e8e9e7}
+.program-card__location{margin-top:4px;color:#b9c0bd;font-size:13px}
+.program-card__details p{margin:5px 0 0;color:#8f9995;font-size:12px}
+.program-card__status{align-self:start;padding:5px 8px;border:1px solid #3c4743;border-radius:5px;color:#aeb7b3;font-size:9px;font-weight:900}
+
+@media(max-width:850px){.program-card{grid-template-columns:95px 105px minmax(0,1fr)}.program-card__status{display:none}.program-card__logo img{max-width:80px}.program-card__time{font-size:18px}}
+@media(max-width:600px){.program-card{grid-template-columns:82px minmax(0,1fr);gap:10px}.program-card__time{grid-column:2;text-align:left}.program-card__details{grid-column:1/-1}.program-card__logo{grid-row:1/3}.view-pill{display:none}}
+
+
+/* V3: sade hafta başlığı ve ayrı seçim rengi */
+.day-column__heading strong{color:var(--yellow);font-size:18px;letter-spacing:.03em}
+.day-column__heading span{color:#fff;font-size:30px;line-height:1;font-weight:950;margin-top:8px}
+.day-column.today{outline:2px solid var(--yellow);outline-offset:-2px;box-shadow:inset 0 0 22px rgba(255,212,0,.08)}
+.day-column.selected{outline:3px solid #36d86a;outline-offset:-3px;box-shadow:inset 0 0 26px rgba(54,216,106,.12)}
+.day-column.today.selected{outline-color:#36d86a;box-shadow:inset 0 0 0 2px var(--yellow),inset 0 0 26px rgba(54,216,106,.13)}
+
+/* V3: günlük program satır tablosu */
+.daily-program{display:block;min-height:150px;padding:10px 0 2px;overflow-x:auto}
+.program-table{min-width:1080px;border:1px solid #303936;border-radius:9px;overflow:hidden;background:#070a09}
+.program-row{display:grid;grid-template-columns:110px 170px minmax(220px,1.15fr) minmax(220px,1.2fr) minmax(180px,1fr) 120px 140px;align-items:stretch;border-bottom:1px solid #303936;background:linear-gradient(180deg,#0b0f0e,#070909)}
+.program-row:last-child{border-bottom:0}.program-row.past{opacity:.43}
+.program-row>div{min-height:66px;display:flex;align-items:center;padding:10px 14px;border-right:1px solid #303936;min-width:0}
+.program-row>div:last-child{border-right:0}
+.program-row--head{background:#090c0b;color:var(--yellow);font-size:12px;font-weight:950;text-transform:uppercase}
+.program-row--head>div{min-height:44px}
+.program-time{margin:auto;color:var(--yellow);font-size:20px;font-weight:950;white-space:nowrap}
+.program-logo-cell{width:100%;justify-content:center}.program-logo{width:100%;height:44px;display:grid;place-items:center}.program-logo img{max-width:115px;max-height:40px;object-fit:contain}.program-logo span{color:var(--yellow);font-weight:900;text-align:center}
+.program-event{font-weight:900;color:#fff}.program-session{color:#f3f4f2}.program-status{display:inline-flex;justify-content:center;min-width:104px;padding:10px 12px;border:1px solid #655700;border-radius:5px;color:var(--yellow);font-size:11px;font-weight:950;text-transform:uppercase}
+.series-row{gap:18px;padding-bottom:18px}.series-badge{flex-basis:92px}.series-badge img[src$=".svg"]{max-height:38px}
+@media(max-width:900px){.day-column__heading strong{font-size:15px}.day-column__heading span{font-size:26px}}
+
+/* V4: kesintisiz, ağır akan şampiyona logoları */
+.series-marquee{
+  position:relative;
+  width:100%;
+  overflow:hidden;
+  padding:0 0 18px;
+  -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 3%,#000 97%,transparent 100%);
+  mask-image:linear-gradient(90deg,transparent 0,#000 3%,#000 97%,transparent 100%);
+}
+.series-track{
+  display:flex;
+  width:max-content;
+  will-change:transform;
+  animation:series-flow-right 72s linear infinite;
+}
+.series-set{
+  display:flex;
+  align-items:center;
+  flex-shrink:0;
+  gap:28px;
+  padding-right:28px;
+}
+.series-marquee:hover .series-track{animation-play-state:paused}
+.series-badge{flex:0 0 96px}
+@keyframes series-flow-right{
+  from{transform:translateX(-50%)}
+  to{transform:translateX(0)}
+}
+@media (prefers-reduced-motion:reduce){
+  .series-track{animation:none;transform:none}
+  .series-marquee{overflow-x:auto;scrollbar-width:none}
+  .series-marquee::-webkit-scrollbar{display:none}
+  .series-set[aria-hidden="true"]{display:none}
+}
+@media(max-width:650px){
+  .series-set{gap:18px;padding-right:18px}
+  .series-badge{flex-basis:82px}
+}
+
+/* V5: UTC saatleri ve pist/bayrak düzeni */
+.utc-clock-line{
+  position:relative;
+  z-index:2;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  margin-top:8px;
+  color:#62d8ff;
+  font-family:"Courier New",monospace;
+  font-size:15px;
+  font-weight:900;
+  letter-spacing:.08em;
+  text-shadow:0 0 8px rgba(60,190,255,.45);
+}
+.utc-label{color:#a6eaff;font-size:12px}
+
+.program-row{grid-template-columns:135px 210px minmax(220px,1.4fr) minmax(180px,1.2fr) minmax(230px,1.2fr) 150px}
+.program-time-stack{display:flex;flex-direction:column;align-items:center;gap:4px}
+.program-utc-time{color:#57c9f4;font-size:11px;font-weight:900;letter-spacing:.04em;white-space:nowrap}
+.program-location{display:flex;align-items:center;justify-content:space-between;gap:14px;width:100%}
+.program-place{text-align:left}
+.program-country-flag{margin-left:auto;font-size:25px;line-height:1;filter:saturate(1.1)}
+@media(max-width:1000px){
+  .program-row{grid-template-columns:105px 150px minmax(190px,1.3fr) minmax(150px,1fr) minmax(190px,1fr) 125px}
+}
+
+
+/* V6: daha belirgin UTC saati ve yeni alt bilgi */
+.utc-clock-line{margin-top:7px;gap:12px;font-size:24px;line-height:1.1;letter-spacing:.1em}
+.utc-clock-line #utc-clock{font-size:26px;color:#62d8ff;text-shadow:0 0 8px rgba(60,190,255,.65),0 0 16px rgba(60,190,255,.35)}
+.utc-label{font-size:16px;color:#b9efff}
+.site-footer{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:8px 12px;padding:16px 10px;color:#aeb5b2;font-size:13px}
+.site-footer a{color:var(--yellow);font-weight:800;text-decoration:none}
+.site-footer a:hover{text-decoration:underline}
+.footer-flag{display:inline-block;font-size:22px;line-height:1;filter:saturate(1.15)}
+.footer-flag-left{transform:scaleX(-1)}
+.footer-flag-right{transform:none}
+@media(max-width:650px){
+  .utc-clock-line{font-size:19px}
+  .utc-clock-line #utc-clock{font-size:21px}
+  .utc-label{font-size:14px}
+  .site-footer{font-size:12px;gap:7px}
+}
+
+/* V7: yerel SVG bayraklar ve kırmızı UTC saati */
+.utc-clock-line{color:#ff3b30;text-shadow:none}
+.utc-clock-line #utc-clock{font-size:27px;color:#ff3b30;font-weight:1000;text-shadow:0 0 8px rgba(255,59,48,.34)}
+.utc-label{color:#ff6b62;font-weight:1000}
+.program-country-flag{display:block;width:32px;height:21px;object-fit:cover;border:1px solid rgba(255,255,255,.28);border-radius:2px;box-shadow:0 1px 4px rgba(0,0,0,.55)}
+.program-flag-slot{display:flex;align-items:center;justify-content:flex-end;min-width:34px;margin-left:auto}
+.footer-flag{display:block;width:34px;height:23px;object-fit:cover;border:1px solid rgba(255,255,255,.28);border-radius:2px;box-shadow:0 1px 4px rgba(0,0,0,.55)}
+.footer-flag-left{transform:scaleX(-1)}
+.footer-flag-right{transform:none}
+.instagram-link{display:inline-flex;align-items:center;gap:5px}
+.instagram-link img{width:17px;height:17px;display:block}
+
+
+/* V8: yalnızca istenen son görünüm düzeltmeleri */
+.utc-clock-line #utc-clock{
+  color:#ff3028;
+  font-family:"Digital-7","DS-Digital","LCDMono2","Courier New",monospace;
+  font-size:31px;
+  font-weight:900;
+  font-stretch:condensed;
+  letter-spacing:.08em;
+  text-shadow:0 0 5px rgba(255,48,40,.65),0 0 12px rgba(255,48,40,.28);
+}
+.utc-label{color:#ff3028;font-weight:900}
+.program-utc-time{display:none}
+.site-footer,.site-footer a{color:#aeb5b2;font-weight:inherit}
+.site-footer a:hover{color:#aeb5b2}
+.footer-flag-left{transform:none}
+.footer-flag-right{transform:scaleX(-1)}
+
+/* V9: Türkçe / İngilizce dil seçimi */
+.language-switch{
+  position:absolute;
+  z-index:5;
+  left:22px;
+  top:20px;
+  display:flex;
+  gap:7px;
+}
+.language-button{
+  width:34px;
+  height:24px;
+  padding:0;
+  border:1px solid rgba(255,255,255,.28);
+  border-radius:4px;
+  overflow:hidden;
+  background:#060807;
+  cursor:pointer;
+  opacity:.6;
+  transition:opacity .2s ease,transform .2s ease,border-color .2s ease,box-shadow .2s ease;
+}
+.language-button img{display:block;width:100%;height:100%;object-fit:cover}
+.language-button:hover{opacity:1;transform:translateY(-1px)}
+.language-button.active{
+  opacity:1;
+  border-color:var(--yellow);
+  box-shadow:0 0 8px rgba(255,212,0,.5);
+}
+.language-button:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.clock-head{padding-left:92px;padding-right:28px;text-align:center}
+@media(max-width:650px){
+  .language-switch{left:18px;top:18px}
+  .language-button{width:30px;height:21px}
+  .clock-head{padding-left:82px;font-size:16px}
+}
+
+/* V10: Dil bayrakları saat kutusunun dışında, sol tarafta */
+.clock-area{
+  display:grid;
+  grid-template-columns:42px minmax(0,1fr);
+  gap:10px;
+  align-items:center;
+}
+.clock-area .language-switch{
+  position:static;
+  display:flex;
+  flex-direction:column;
+  gap:9px;
+  align-items:center;
+  justify-content:center;
+}
+.clock-area .clock-panel{width:100%}
+.clock-area .clock-head{padding-left:28px}
+@media(max-width:1100px){
+  .clock-area{max-width:672px}
+}
+@media(max-width:650px){
+  .clock-area{grid-template-columns:34px minmax(0,1fr);gap:7px}
+  .clock-area .language-switch{position:static;gap:7px}
+  .clock-area .clock-head{padding-left:20px;padding-right:20px;font-size:16px}
+}
+
+/* V11: smoother navigation and content transitions */
+.week-side{
+  overflow:hidden;
+  transition:transform .18s ease,border-color .22s ease,box-shadow .22s ease,background .22s ease;
+  box-shadow:inset 0 0 0 1px rgba(255,212,0,.03),0 5px 16px rgba(0,0,0,.35);
+}
+.week-side::after{
+  content:"";
+  position:absolute;
+  inset:-40% -70%;
+  background:linear-gradient(110deg,transparent 35%,rgba(255,212,0,.17) 50%,transparent 65%);
+  transform:translateX(-55%) rotate(8deg);
+  transition:transform .55s ease;
+  pointer-events:none;
+}
+.week-side:hover{
+  transform:translateY(-2px) scale(1.035);
+  border-color:var(--yellow);
+  background:#10140f;
+  box-shadow:0 0 0 1px rgba(255,212,0,.16),0 0 20px rgba(255,212,0,.18),0 8px 20px rgba(0,0,0,.45);
+}
+.week-side:hover::after{transform:translateX(55%) rotate(8deg)}
+.week-side:active{
+  transform:translateY(1px) scale(.96);
+  box-shadow:inset 0 0 16px rgba(255,212,0,.12),0 2px 8px rgba(0,0,0,.4);
+}
+.week-side:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.week-side:before{transition:filter .2s ease,transform .2s ease}
+.week-side:hover:before{filter:drop-shadow(0 0 7px rgba(255,212,0,.75));transform:translate(-50%,-50%) scale(1.1)}
+
+.week-label{transition:opacity .22s ease,transform .22s ease,text-shadow .22s ease}
+.week-label.is-changing{opacity:.18;transform:translateY(-5px);text-shadow:0 0 14px rgba(255,212,0,.55)}
+
+.calendar-grid,.daily-program,.program-date{
+  transition:opacity .24s ease,transform .24s ease,filter .24s ease;
+  will-change:opacity,transform;
+}
+.calendar-grid.is-leaving{opacity:0;transform:translateX(var(--slide-direction,0));filter:blur(2px)}
+.calendar-grid.is-entering{animation:calendar-enter .42s cubic-bezier(.2,.75,.25,1)}
+.daily-program.is-changing{opacity:.12;transform:translateY(8px);filter:blur(1px)}
+.daily-program.is-entering{animation:program-enter .38s cubic-bezier(.2,.75,.25,1)}
+.program-date.is-changing{opacity:.15;transform:translateY(-4px)}
+
+.day-column{
+  transition:background .2s ease,transform .18s ease,box-shadow .2s ease,outline-color .2s ease;
+}
+.day-column:hover{transform:translateY(-2px);z-index:3;box-shadow:inset 0 0 22px rgba(255,212,0,.05),0 8px 18px rgba(0,0,0,.28)}
+.day-column:active{transform:scale(.985)}
+.day-column.selected{animation:selected-pulse .42s ease}
+
+@keyframes calendar-enter{
+  from{opacity:0;transform:translateX(var(--enter-direction,0));filter:blur(2px)}
+  to{opacity:1;transform:translateX(0);filter:blur(0)}
+}
+@keyframes program-enter{
+  from{opacity:0;transform:translateY(10px);filter:blur(1px)}
+  to{opacity:1;transform:translateY(0);filter:blur(0)}
+}
+@keyframes selected-pulse{
+  0%{box-shadow:inset 0 0 0 rgba(54,216,106,0)}
+  45%{box-shadow:inset 0 0 35px rgba(54,216,106,.2),0 0 14px rgba(54,216,106,.12)}
+  100%{box-shadow:inset 0 0 26px rgba(54,216,106,.12)}
+}
+
+@media (prefers-reduced-motion:reduce){
+  .week-side,.week-side::after,.week-side:before,.week-label,.calendar-grid,.daily-program,.program-date,.day-column{transition:none!important;animation:none!important}
+}
+
+/* V12: geçmiş günler, canlı durumlar ve geliştirilmiş hafta kartları */
+.day-column{
+  isolation:isolate;
+  border-right:1px solid rgba(255,255,255,.07);
+  background:
+    radial-gradient(circle at 50% -20%,rgba(255,212,0,.08),transparent 42%),
+    linear-gradient(180deg,#111716 0%,#080c0b 62%,#050707 100%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.035),inset 0 -16px 30px rgba(0,0,0,.28);
+}
+.day-column::before{
+  content:"";
+  position:absolute;
+  z-index:-1;
+  inset:0;
+  pointer-events:none;
+  background:linear-gradient(120deg,transparent 20%,rgba(255,255,255,.025) 48%,transparent 72%);
+}
+.day-column::after{
+  content:"";
+  position:absolute;
+  top:0;left:12%;right:12%;height:2px;
+  background:linear-gradient(90deg,transparent,rgba(255,212,0,.58),transparent);
+  opacity:.55;
+}
+.day-column__heading{
+  position:relative;
+  padding:2px 4px 12px;
+  border-bottom:1px solid rgba(255,212,0,.43);
+}
+.day-column__heading::after{
+  content:"";
+  position:absolute;
+  left:35%;right:35%;bottom:-1px;height:2px;
+  background:var(--yellow);
+  box-shadow:0 0 8px rgba(255,212,0,.45);
+}
+.day-column__logos{
+  position:relative;
+  margin-top:7px;
+  border-radius:8px;
+  background:linear-gradient(180deg,rgba(255,255,255,.018),transparent);
+}
+.day-column:hover{
+  background:
+    radial-gradient(circle at 50% -15%,rgba(255,212,0,.14),transparent 44%),
+    linear-gradient(180deg,#17201e,#090e0d 65%,#060808);
+}
+.day-column.past-day{
+  opacity:.38;
+  filter:saturate(.28) grayscale(.25);
+  background:linear-gradient(180deg,#0b0e0e,#050707);
+}
+.day-column.past-day .week-logo{opacity:.52;filter:grayscale(.55)}
+.day-column.past-day:hover{opacity:.56;filter:saturate(.45) grayscale(.15)}
+.day-column.past-day.selected{opacity:.68;filter:saturate(.55)}
+.day-column.today,.day-column.selected{opacity:1;filter:none}
+
+.program-status{white-space:nowrap;transition:color .2s ease,border-color .2s ease,background .2s ease,box-shadow .2s ease}
+.program-status--scheduled{color:var(--yellow);border-color:#655700;background:rgba(255,212,0,.035)}
+.program-status--confirmed{color:var(--yellow);border-color:#8a7400;background:rgba(255,212,0,.055);box-shadow:inset 0 0 10px rgba(255,212,0,.035)}
+.program-status--planned{color:#c7b96a;border-color:#665f33;background:rgba(199,185,106,.045)}
+.program-status--countdown{color:#ff9f1a;border-color:#b76200;background:rgba(255,133,0,.09);box-shadow:0 0 12px rgba(255,133,0,.09)}
+.program-status--live{color:#65f28d;border-color:#24b653;background:rgba(36,182,83,.13);box-shadow:0 0 13px rgba(54,216,106,.18);animation:live-status-pulse 1.35s ease-in-out infinite}
+.program-status--completed{color:#8b9290;border-color:#424846;background:rgba(255,255,255,.025)}
+.program-status--cancelled{color:#ff6a63;border-color:#9d342f;background:rgba(255,70,60,.08)}
+.program-row.live-row{opacity:1;background:linear-gradient(90deg,rgba(40,190,86,.055),transparent 42%)}
+.program-row.past{opacity:.38;filter:saturate(.4)}
+@keyframes live-status-pulse{
+  0%,100%{box-shadow:0 0 8px rgba(54,216,106,.12)}
+  50%{box-shadow:0 0 18px rgba(54,216,106,.34)}
+}
+@media (prefers-reduced-motion:reduce){.program-status--live{animation:none}}
+.program-time--pending { font-family: inherit; font-size: .72rem; letter-spacing: .02em; white-space: nowrap; color: #f6c945; }
+
+/* Dark artwork logos must remain visible on the dark calendar cards. */
+.week-logo img[src*="motogp.webp"],
+.program-logo img[src*="motogp.webp"],
+.program-card__logo img[src*="motogp.webp"],
+.week-logo img[src*="wrc.webp"],
+.program-logo img[src*="wrc.webp"],
+.program-card__logo img[src*="wrc.webp"] {
+  filter: brightness(0) invert(1);
+}
+
+/* V13: telefonda uygulama benzeri sade takvim görünümü */
+.mobile-header,.mobile-clock-section,.program-championship-mobile{display:none}
+
+@media(max-width:700px){
+  html,body{background:#030504}
+  body:before{opacity:.07}
+  .wrap{width:100%;margin:0;max-width:none}
+
+  /* Masaüstü afişi mobilde kaldırılır. */
+  .hero{display:none}
+  .site-footer{display:none}
+
+  /* Bayraklar iki yana yaslı, başlık ortada. */
+  .mobile-header{
+    display:grid;
+    grid-template-columns:52px minmax(0,1fr) 52px;
+    align-items:center;
+    gap:8px;
+    min-height:72px;
+    padding:14px 16px 10px;
+    border-bottom:1px solid rgba(255,255,255,.15);
+    background:#030504;
+  }
+  .mobile-header h1{
+    margin:0;
+    text-align:center;
+    color:#f3f4f2;
+    font-family:"Arial Narrow",Arial,sans-serif;
+    font-size:clamp(16px,4.8vw,22px);
+    line-height:1.05;
+    font-style:italic;
+    font-weight:950;
+    letter-spacing:.02em;
+    white-space:nowrap;
+  }
+  .mobile-language-button{
+    display:block;
+    width:44px;
+    height:30px;
+    opacity:1;
+    border-color:rgba(255,255,255,.18);
+    box-shadow:none;
+  }
+  .mobile-language-button:first-child{justify-self:start}
+  .mobile-language-button:last-child{justify-self:end}
+  .mobile-language-button.active{border-color:var(--yellow);box-shadow:0 0 8px rgba(255,212,0,.28)}
+
+  main{margin:0}
+  .section{margin:0;padding:0;border:0;border-radius:0;background:#030504;box-shadow:none}
+
+  /* Yedi günlük şerit: hafta başlığı, gün/tarih ve o günün şampiyona logoları. */
+  .week-section{position:relative;padding:10px 10px 8px;border-bottom:1px solid rgba(255,255,255,.14)}
+  .week-toolbar{display:block;margin:0 0 7px}
+  .week-label{display:block;margin:0;text-align:center;color:var(--yellow);font-size:15px;font-weight:900;letter-spacing:.025em;text-transform:uppercase}
+  .week-label{font-size:0}
+  .week-label::after{content:attr(data-mobile-title);font-size:15px}
+  .calendar-grid{
+    display:grid;
+    grid-template-columns:repeat(7,minmax(0,1fr));
+    margin:0;
+    border:0;
+    border-radius:0;
+    overflow:visible;
+    background:transparent;
+  }
+  .week-side{display:none!important}
+  .day-column{
+    min-height:128px;
+    height:auto;
+    padding:4px 2px 6px;
+    border:0;
+    border-radius:7px 7px 0 0;
+    background:transparent;
+    box-shadow:none;
+    overflow:visible;
+    align-self:stretch;
+  }
+  .day-column::before,.day-column::after{display:none}
+  .day-column:hover,.day-column:active{transform:none;background:rgba(255,255,255,.025);box-shadow:none}
+  .day-column.past-day{opacity:1;filter:none;background:transparent}
+  .day-column.selected{
+    outline:0;
+    background:linear-gradient(180deg,#991916,#40100f);
+    box-shadow:inset 0 -3px 0 var(--red);
+    animation:none;
+  }
+  .day-column.today:not(.selected){outline:0;box-shadow:none}
+  .day-column__heading{padding:7px 0 5px;border:0}
+  .day-column__heading::after{display:none}
+  .day-column__heading strong{font-size:0;line-height:1.1;color:#e8e9e7;white-space:nowrap}
+  .day-column__heading strong::after{content:attr(data-mobile-day);font-size:9px}
+  .day-column__heading span{
+    margin-top:5px;
+    color:var(--yellow);
+    font-size:19px;
+    line-height:1;
+    font-weight:950;
+  }
+  .day-column__heading span::after{content:none}
+  .day-column__heading em{display:none!important}
+  .day-column__logos{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:3px;min-height:76px;height:auto;padding:2px 1px 5px;overflow:visible}
+  .day-column__logos .week-logo{width:100%;height:22px;min-height:22px;flex:0 0 22px}
+  .day-column__logos .week-logo img{max-width:92%;max-height:20px}
+  .day-column__logos .week-logo span{max-width:100%;padding:2px 3px;font-size:7px;line-height:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  /* Web sayfasındaki Rally Clock yapısının aynısı. */
+  .mobile-clock-section{display:block;padding:12px 14px 10px;background:#030504}
+  .mobile-clock-panel{
+    width:100%;
+    min-height:0;
+    padding:12px 14px 14px;
+    border-radius:16px;
+  }
+  .mobile-clock-panel:after{inset:9px;border-width:2px;border-radius:12px}
+  .mobile-clock-panel .clock-head{padding:7px 18px 0;text-align:center;font-size:15px;white-space:nowrap}
+  .mobile-clock-panel .retro-time{margin-top:3px;font-size:clamp(42px,13vw,64px);letter-spacing:1px}
+  .mobile-clock-panel .clock-meta{flex-direction:row;flex-wrap:wrap;gap:7px 14px;margin-top:2px;font-size:10px}
+  .mobile-clock-panel .utc-clock-line{margin-top:4px;font-size:17px}
+  .mobile-clock-panel .utc-clock-line [data-utc-clock]{font-size:22px;color:#ff3028;font-family:"Courier New",monospace;letter-spacing:.08em;text-shadow:0 0 5px rgba(255,48,40,.65)}
+
+  /* Gün başlığı ve kutular kaldırılır; yalnızca seçili günün satırları kalır. */
+  .program-section{padding:0 10px 16px}
+  .program-head{display:none}
+  .daily-program{min-height:0;padding:0;gap:0;overflow:visible}
+  .program-table{min-width:0;width:100%;border:0;border-radius:0;overflow:visible;background:transparent}
+  .program-row--head{display:none}
+  .program-row--head .program-head-event,.program-row--head .program-head-location{font-size:0}
+  .program-row--head .program-head-event::after,.program-row--head .program-head-location::after{content:attr(data-mobile-label);font-size:11px}
+  .program-row{
+    display:grid;
+    grid-template-columns:106px minmax(0,1fr) 44px 58px;
+    grid-template-areas:"logo info flag time";
+    align-items:center;
+    min-height:92px;
+    border:0;
+    border-bottom:1px solid rgba(255,255,255,.17);
+    background:transparent;
+  }
+  .program-row:last-child{border-bottom:0}
+  .program-row>div{min-height:0;padding:8px 5px;border:0;display:flex;align-items:center;min-width:0}
+  .program-row>div:nth-child(1){grid-area:time;justify-content:center;padding-inline:2px}
+  .program-row>div:nth-child(2){grid-area:logo;justify-content:center;border-right:1px solid rgba(255,255,255,.18)}
+  .program-row>div:nth-child(3){grid-area:info;align-self:stretch;padding-left:14px}
+  .program-row>div:nth-child(4){grid-area:info;align-self:end;padding:0 8px 11px 14px;pointer-events:none}
+  .program-row>div:nth-child(5){grid-area:flag;justify-content:center;padding:2px}
+  .program-row>div:nth-child(6){display:none}
+  .program-time-stack{width:100%;align-items:center}
+  .program-time{font-size:18px;color:#f5f5f3;font-weight:950}
+  .program-logo-cell{width:100%}
+  .program-logo{height:48px}
+  .program-logo img{max-width:92px;max-height:42px}
+  .program-event{display:flex;flex-direction:column;align-items:flex-start!important;justify-content:center;line-height:1.15;font-size:14px;text-transform:uppercase;overflow:hidden}
+  .program-event>span:last-child{display:none}
+  .program-championship-mobile{display:block;margin-bottom:4px;color:var(--red);font-size:12px;font-weight:950;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .program-session{align-items:flex-start!important;color:#d5d7d5;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .program-location{justify-content:center}
+  .program-place{display:none}
+  .program-flag-slot{margin:0;min-width:0;justify-content:center}
+  .program-country-flag{width:34px;height:23px;margin:0}
+  .program-status{min-width:82px;max-width:88px;padding:7px 5px;border-radius:7px;font-size:10px;line-height:1;text-align:center;white-space:normal}
+  .program-row.past{opacity:.42}
+
+  @media(max-width:430px){
+    .mobile-header{grid-template-columns:46px minmax(0,1fr) 46px;padding-inline:12px}
+    .mobile-header h1{font-size:15px}
+    .mobile-language-button{width:38px;height:27px}
+    .day-column__heading strong::after{font-size:8px}
+    .day-column__heading span{font-size:18px}
+    .program-row{grid-template-columns:88px minmax(0,1fr) 38px 51px;min-height:86px}
+    .program-logo img{max-width:76px;max-height:38px}
+    .program-event{font-size:12px}
+    .program-championship-mobile{font-size:10px}
+    .program-session{font-size:11px}
+    .program-time{font-size:15px}
+    .program-country-flag{width:30px;height:20px}
+    .program-status{min-width:70px;max-width:74px;font-size:9px;padding:6px 3px}
+  }
+}
+
+/* Ay adı mobil gün hücrelerinde gösterilmez; hafta başlığında tek kez yer alır. */
+.day-column__heading em{display:none}
+
+
+/* V6 mobil son düzeltmeler: hafta üstten sabit büyür, program başlığı tek satırdır. */
+@media(max-width:700px){
+  .calendar-grid{
+    align-items:stretch!important;
+  }
+  .day-column{
+    display:flex!important;
+    flex-direction:column!important;
+    justify-content:flex-start!important;
+    align-self:stretch!important;
+    height:100%!important;
+    min-height:0!important;
+    vertical-align:top!important;
+  }
+  .day-column__heading{
+    flex:0 0 auto!important;
+  }
+  .day-column__logos{
+    flex:1 0 auto!important;
+    min-height:76px!important;
+    height:auto!important;
+    overflow:visible!important;
+  }
+
+  /* Mobil tablo başlığı: Şampiyona | Seans | Ülke | Saat */
+  .program-row--head{
+    display:grid!important;
+    grid-template-columns:106px minmax(0,1fr) 44px 58px!important;
+    grid-template-areas:"champ session country time"!important;
+    min-height:42px!important;
+    background:transparent!important;
+    border-bottom:1px solid rgba(255,255,255,.17)!important;
+  }
+  .program-row--head>div{
+    display:flex!important;
+    min-height:42px!important;
+    padding:7px 5px!important;
+    align-items:center!important;
+    color:var(--yellow)!important;
+    font-size:11px!important;
+    font-weight:950!important;
+    line-height:1!important;
+    white-space:nowrap!important;
+  }
+  .program-row--head>div:nth-child(1){grid-area:time!important;justify-content:center!important}
+  .program-row--head>div:nth-child(2){grid-area:champ!important;justify-content:center!important;border-right:1px solid rgba(255,255,255,.18)!important}
+  .program-row--head>div:nth-child(3){display:none!important}
+  .program-row--head>div:nth-child(4){grid-area:session!important;justify-content:flex-start!important;padding-left:14px!important}
+  .program-row--head>div:nth-child(5){grid-area:country!important;justify-content:center!important;font-size:0!important}
+  .program-row--head>div:nth-child(5)::after{content:"ÜLKE";font-size:11px!important}
+  .program-row--head>div:nth-child(6){display:none!important}
+}
+
+@media(max-width:430px){
+  .program-row--head{
+    grid-template-columns:88px minmax(0,1fr) 38px 51px!important;
+  }
+  .program-row--head>div{font-size:10px!important}
+  .program-row--head>div:nth-child(5)::after{font-size:10px!important}
+}
+
+/* V7 mobil son dokunuşlar: hafta kaydırma göstergeleri ve silik damalı arka plan. */
+@media(max-width:700px){
+  body{
+    position:relative;
+    background:#030504!important;
+  }
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    z-index:-1;
+    pointer-events:none;
+    background-image:
+      linear-gradient(rgba(3,5,4,.88),rgba(3,5,4,.92)),
+      url("../img/banner/checkered-flag-wave.gif");
+    background-position:center top;
+    background-repeat:repeat-y;
+    background-size:cover;
+    opacity:.42;
+  }
+
+  .mobile-header,
+  .week-section,
+  .mobile-clock-section,
+  .program-section,
+  .section{
+    background:rgba(3,5,4,.84)!important;
+  }
+
+  .week-toolbar{
+    position:relative;
+    min-height:24px;
+    padding:0 30px;
+  }
+  .week-toolbar::before,
+  .week-toolbar::after{
+    position:absolute;
+    top:50%;
+    color:var(--yellow);
+    font-size:25px;
+    line-height:1;
+    font-weight:950;
+    opacity:.9;
+    transform:translateY(-53%);
+    text-shadow:0 0 8px rgba(255,212,0,.35);
+    pointer-events:none;
+  }
+  .week-toolbar::before{
+    content:"‹";
+    left:9px;
+    animation:mobileWeekArrowLeft 1.7s ease-in-out infinite;
+  }
+  .week-toolbar::after{
+    content:"›";
+    right:9px;
+    animation:mobileWeekArrowRight 1.7s ease-in-out infinite;
+  }
+
+  @keyframes mobileWeekArrowLeft{
+    0%,100%{transform:translate(0,-53%);opacity:.58}
+    50%{transform:translate(-4px,-53%);opacity:1}
+  }
+  @keyframes mobileWeekArrowRight{
+    0%,100%{transform:translate(0,-53%);opacity:.58}
+    50%{transform:translate(4px,-53%);opacity:1}
+  }
+
+  @media(prefers-reduced-motion:reduce){
+    .week-toolbar::before,
+    .week-toolbar::after{animation:none}
+  }
+}
+
+/* V8: mobil tam ekran damalı arka plan ve iPhone standalone güvenli alanları. */
+@media(max-width:700px){
+  html{
+    min-height:100%;
+    background:#030504!important;
+  }
+  body{
+    min-height:100vh;
+    min-height:100dvh;
+    position:relative;
+    isolation:isolate;
+    background:#030504!important;
+    padding-top:env(safe-area-inset-top);
+    padding-right:env(safe-area-inset-right);
+    padding-bottom:env(safe-area-inset-bottom);
+    padding-left:env(safe-area-inset-left);
+  }
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    z-index:0;
+    pointer-events:none;
+    opacity:1;
+    mix-blend-mode:normal;
+    background:
+      linear-gradient(rgba(3,5,4,.82),rgba(3,5,4,.88)),
+      url("../img/banner/checkered-flag-wave.gif") center top / cover repeat-y;
+    filter:grayscale(1) contrast(1.08) brightness(.72);
+    transform:translateZ(0);
+  }
+  .wrap{
+    position:relative;
+    z-index:1;
+    min-height:100vh;
+    min-height:100dvh;
+    background:transparent!important;
+  }
+  .mobile-header,
+  .week-section,
+  .mobile-clock-section,
+  .program-section,
+  .section{
+    background:rgba(3,5,4,.68)!important;
+  }
+  .mobile-header{
+    padding-top:max(14px,env(safe-area-inset-top));
+  }
+  .program-section{
+    padding-bottom:max(16px,env(safe-area-inset-bottom));
+  }
+}
+
+@media(display-mode:standalone) and (max-width:700px){
+  body{overscroll-behavior-y:none}
+}

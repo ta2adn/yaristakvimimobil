@@ -24,3 +24,5 @@ Ardından `http://localhost:8080` adresini açın.
 ## UTC kuralı
 
 Tüm saatler `DTSTART:YYYYMMDDTHHMMSSZ` biçiminde UTC yazılır. JavaScript `Date` ve `Intl.DateTimeFormat` ile ziyaretçinin yerel saatine dönüştürür.
+
+Mobile v5: logo alanı içerik kadar uzar; mobil günlük görünümde seans tek satırdır.

@@ -1,0 +1,1640 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WorldSBK 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:worldsbk-australian-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260219T232000Z
+DTEND:20260220T000500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Australian Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260220T040000Z
+DTEND:20260220T044500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Australian Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260220T224000Z
+DTEND:20260220T230000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Australian Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260221T001500Z
+DTEND:20260221T003000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Australian Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260221T043000Z
+DTEND:20260221T053000Z
+SUMMARY:Race 1
+DESCRIPTION:Australian Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260221T221500Z
+DTEND:20260221T222500Z
+SUMMARY:Warm Up
+DESCRIPTION:Australian Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260222T001000Z
+DTEND:20260222T004500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Australian Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-australian-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260222T043000Z
+DTEND:20260222T053000Z
+SUMMARY:Race 2
+DESCRIPTION:Australian Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Australian Round
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260327T102000Z
+DTEND:20260327T110500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Pirelli Portuguese Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260327T150000Z
+DTEND:20260327T154500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Pirelli Portuguese Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260328T094000Z
+DTEND:20260328T100000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Pirelli Portuguese Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260328T111500Z
+DTEND:20260328T113000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Pirelli Portuguese Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260328T153000Z
+DTEND:20260328T163000Z
+SUMMARY:Race 1
+DESCRIPTION:Pirelli Portuguese Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260329T081500Z
+DTEND:20260329T082500Z
+SUMMARY:Warm Up
+DESCRIPTION:Pirelli Portuguese Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260329T101000Z
+DTEND:20260329T104500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Pirelli Portuguese Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-portuguese-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260329T143000Z
+DTEND:20260329T153000Z
+SUMMARY:Race 2
+DESCRIPTION:Pirelli Portuguese Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autódromo Internacional do Algarve, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Pirelli Portuguese Round
+X-COUNTRY:PT
+X-CIRCUIT:Autódromo Internacional do Algarve
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260417T082000Z
+DTEND:20260417T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Pirelli Dutch Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260417T130000Z
+DTEND:20260417T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Pirelli Dutch Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260418T074000Z
+DTEND:20260418T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Pirelli Dutch Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260418T091500Z
+DTEND:20260418T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Pirelli Dutch Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260418T133000Z
+DTEND:20260418T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Pirelli Dutch Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260419T071500Z
+DTEND:20260419T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Pirelli Dutch Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260419T091000Z
+DTEND:20260419T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Pirelli Dutch Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-dutch-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260419T133000Z
+DTEND:20260419T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Pirelli Dutch Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Pirelli Dutch Round
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260501T082000Z
+DTEND:20260501T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Motul Hungarian Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260501T130000Z
+DTEND:20260501T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Motul Hungarian Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260502T074000Z
+DTEND:20260502T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Motul Hungarian Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260502T091500Z
+DTEND:20260502T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Motul Hungarian Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260502T133000Z
+DTEND:20260502T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Motul Hungarian Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260503T071500Z
+DTEND:20260503T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Motul Hungarian Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260503T091000Z
+DTEND:20260503T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Motul Hungarian Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-motul-hungarian-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260503T133000Z
+DTEND:20260503T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Motul Hungarian Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Motul Hungarian Round
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260515T082000Z
+DTEND:20260515T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Czech Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260515T130000Z
+DTEND:20260515T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Czech Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260516T074000Z
+DTEND:20260516T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Czech Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260516T091500Z
+DTEND:20260516T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Czech Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260516T133000Z
+DTEND:20260516T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Czech Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260517T071500Z
+DTEND:20260517T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Czech Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260517T091000Z
+DTEND:20260517T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Czech Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-czech-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260517T133000Z
+DTEND:20260517T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Czech Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Autodrom Most, Czechia
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Czech Round
+X-COUNTRY:CZ
+X-CIRCUIT:Autodrom Most
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260529T082000Z
+DTEND:20260529T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Aragon Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260529T130000Z
+DTEND:20260529T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Aragon Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260530T074000Z
+DTEND:20260530T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Aragon Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260530T091500Z
+DTEND:20260530T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Aragon Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260530T133000Z
+DTEND:20260530T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Aragon Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260531T071500Z
+DTEND:20260531T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Aragon Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260531T091000Z
+DTEND:20260531T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Aragon Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-aragon-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260531T133000Z
+DTEND:20260531T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Aragon Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:MotorLand Aragón, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Aragon Round
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260612T082000Z
+DTEND:20260612T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Pirelli Emilia-Romagna Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260612T130000Z
+DTEND:20260612T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Pirelli Emilia-Romagna Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260613T074000Z
+DTEND:20260613T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Pirelli Emilia-Romagna Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260613T091500Z
+DTEND:20260613T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Pirelli Emilia-Romagna Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260613T133000Z
+DTEND:20260613T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Pirelli Emilia-Romagna Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260614T071500Z
+DTEND:20260614T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Pirelli Emilia-Romagna Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260614T090000Z
+DTEND:20260614T093500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Pirelli Emilia-Romagna Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-emilia-romagna-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260614T120000Z
+DTEND:20260614T130000Z
+SUMMARY:Race 2
+DESCRIPTION:Pirelli Emilia-Romagna Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Pirelli Emilia-Romagna Round
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+X-PROVISIONAL:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260710T092000Z
+DTEND:20260710T100500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Prosecco DOC UK Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260710T140000Z
+DTEND:20260710T144500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Prosecco DOC UK Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260711T084000Z
+DTEND:20260711T090000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Prosecco DOC UK Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260711T101500Z
+DTEND:20260711T103000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Prosecco DOC UK Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260711T143000Z
+DTEND:20260711T153000Z
+SUMMARY:Race 1
+DESCRIPTION:Prosecco DOC UK Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260712T081500Z
+DTEND:20260712T082500Z
+SUMMARY:Warm Up
+DESCRIPTION:Prosecco DOC UK Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260712T101000Z
+DTEND:20260712T104500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Prosecco DOC UK Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-prosecco-doc-uk-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260712T143000Z
+DTEND:20260712T153000Z
+SUMMARY:Race 2
+DESCRIPTION:Prosecco DOC UK Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Donington Park Circuit, United Kingdom
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Prosecco DOC UK Round
+X-COUNTRY:GB
+X-CIRCUIT:Donington Park Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260904T082000Z
+DTEND:20260904T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Acerbis French Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260904T130000Z
+DTEND:20260904T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Acerbis French Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260905T074000Z
+DTEND:20260905T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Acerbis French Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260905T091500Z
+DTEND:20260905T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Acerbis French Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260905T133000Z
+DTEND:20260905T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Acerbis French Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260906T071500Z
+DTEND:20260906T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Acerbis French Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260906T091000Z
+DTEND:20260906T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Acerbis French Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-acerbis-french-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260906T133000Z
+DTEND:20260906T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Acerbis French Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuit de Nevers Magny-Cours, France
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Acerbis French Round
+X-COUNTRY:FR
+X-CIRCUIT:Circuit de Nevers Magny-Cours
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260925T082000Z
+DTEND:20260925T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:EICMA Italian Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260925T130000Z
+DTEND:20260925T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:EICMA Italian Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260926T074000Z
+DTEND:20260926T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:EICMA Italian Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260926T091500Z
+DTEND:20260926T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:EICMA Italian Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260926T133000Z
+DTEND:20260926T143000Z
+SUMMARY:Race 1
+DESCRIPTION:EICMA Italian Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260927T071500Z
+DTEND:20260927T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:EICMA Italian Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260927T091000Z
+DTEND:20260927T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:EICMA Italian Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-eicma-italian-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20260927T133000Z
+DTEND:20260927T143000Z
+SUMMARY:Race 2
+DESCRIPTION:EICMA Italian Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Cremona Circuit, Italy
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:EICMA Italian Round
+X-COUNTRY:IT
+X-CIRCUIT:Cremona Circuit
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261009T092000Z
+DTEND:20261009T100500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Tissot Estoril Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261009T140000Z
+DTEND:20261009T144500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Tissot Estoril Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261010T084000Z
+DTEND:20261010T090000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Tissot Estoril Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261010T101500Z
+DTEND:20261010T103000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Tissot Estoril Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261010T143000Z
+DTEND:20261010T153000Z
+SUMMARY:Race 1
+DESCRIPTION:Tissot Estoril Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261011T081500Z
+DTEND:20261011T082500Z
+SUMMARY:Warm Up
+DESCRIPTION:Tissot Estoril Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261011T101000Z
+DTEND:20261011T104500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Tissot Estoril Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-tissot-estoril-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261011T143000Z
+DTEND:20261011T153000Z
+SUMMARY:Race 2
+DESCRIPTION:Tissot Estoril Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito Estoril, Portugal
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Tissot Estoril Round
+X-COUNTRY:PT
+X-CIRCUIT:Circuito Estoril
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-free-practice-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261016T082000Z
+DTEND:20261016T090500Z
+SUMMARY:Free Practice 1
+DESCRIPTION:Pirelli Spanish Round - Free Practice 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 1
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-free-practice-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261016T130000Z
+DTEND:20261016T134500Z
+SUMMARY:Free Practice 2
+DESCRIPTION:Pirelli Spanish Round - Free Practice 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 2
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-free-practice-3-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261017T074000Z
+DTEND:20261017T080000Z
+SUMMARY:Free Practice 3
+DESCRIPTION:Pirelli Spanish Round - Free Practice 3. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Free Practice 3
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-tissot-superpole-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261017T091500Z
+DTEND:20261017T093000Z
+SUMMARY:Tissot Superpole
+DESCRIPTION:Pirelli Spanish Round - Tissot Superpole. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-race-1-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261017T133000Z
+DTEND:20261017T143000Z
+SUMMARY:Race 1
+DESCRIPTION:Pirelli Spanish Round - Race 1. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 1
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-warm-up-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261018T071500Z
+DTEND:20261018T072500Z
+SUMMARY:Warm Up
+DESCRIPTION:Pirelli Spanish Round - Warm Up. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Warm Up
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-tissot-superpole-race-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261018T091000Z
+DTEND:20261018T094500Z
+SUMMARY:Tissot Superpole Race
+DESCRIPTION:Pirelli Spanish Round - Tissot Superpole Race. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Tissot Superpole Race
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-pirelli-spanish-round-race-2-2026@motorsport-calendar
+DTSTAMP:20260721T121833Z
+DTSTART:20261018T133000Z
+DTEND:20261018T143000Z
+SUMMARY:Race 2
+DESCRIPTION:Pirelli Spanish Round - Race 2. Kaynak: WorldSBK resmi takvimi. Saat yerel pist saatinden UTC'ye çevrilmiştir. Yarışa özel program yayınlanana kadar 2026 standart seans saati kullanılmıştır.
+LOCATION:Circuito de Jerez – Ángel Nieto, Spain
+STATUS:CONFIRMED
+CATEGORIES:WorldSBK
+X-CHAMPIONSHIP:WorldSBK
+X-SESSION-TYPE:Race 2
+X-EVENT-NAME:Pirelli Spanish Round
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez – Ángel Nieto
+X-PROVISIONAL:TRUE
+END:VEVENT
+END:VCALENDAR

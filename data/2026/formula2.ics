@@ -1,0 +1,903 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Formula 2 2026
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:formula2-1-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Practice
+DESCRIPTION:Melbourne - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-1-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Qualifying
+DESCRIPTION:Melbourne - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-1-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Sprint Race
+DESCRIPTION:Melbourne - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-1-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Feature Race
+DESCRIPTION:Melbourne - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Albert Park Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Melbourne
+X-COUNTRY:AU
+X-CIRCUIT:Albert Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-2-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Practice
+DESCRIPTION:Miami - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Miami International Autodrome, United States
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Miami
+X-COUNTRY:US
+X-CIRCUIT:Miami International Autodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-2-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Qualifying
+DESCRIPTION:Miami - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Miami International Autodrome, United States
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Miami
+X-COUNTRY:US
+X-CIRCUIT:Miami International Autodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-2-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Sprint Race
+DESCRIPTION:Miami - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Miami International Autodrome, United States
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Miami
+X-COUNTRY:US
+X-CIRCUIT:Miami International Autodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-2-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Feature Race
+DESCRIPTION:Miami - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Miami International Autodrome, United States
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Miami
+X-COUNTRY:US
+X-CIRCUIT:Miami International Autodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-3-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Practice
+DESCRIPTION:Montréal - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Gilles-Villeneuve, Canada
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Montréal
+X-COUNTRY:CA
+X-CIRCUIT:Circuit Gilles-Villeneuve
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-3-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Qualifying
+DESCRIPTION:Montréal - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Gilles-Villeneuve, Canada
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Montréal
+X-COUNTRY:CA
+X-CIRCUIT:Circuit Gilles-Villeneuve
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-3-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Sprint Race
+DESCRIPTION:Montréal - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Gilles-Villeneuve, Canada
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Montréal
+X-COUNTRY:CA
+X-CIRCUIT:Circuit Gilles-Villeneuve
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-3-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Feature Race
+DESCRIPTION:Montréal - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Gilles-Villeneuve, Canada
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Montréal
+X-COUNTRY:CA
+X-CIRCUIT:Circuit Gilles-Villeneuve
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-4-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Practice
+DESCRIPTION:Monte Carlo - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-4-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Qualifying
+DESCRIPTION:Monte Carlo - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-4-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Sprint Race
+DESCRIPTION:Monte Carlo - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-4-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Feature Race
+DESCRIPTION:Monte Carlo - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Monaco, Monaco
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Monte Carlo
+X-COUNTRY:MC
+X-CIRCUIT:Circuit de Monaco
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-5-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Practice
+DESCRIPTION:Barcelona - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-5-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Qualifying
+DESCRIPTION:Barcelona - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-5-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Sprint Race
+DESCRIPTION:Barcelona - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-5-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Feature Race
+DESCRIPTION:Barcelona - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Barcelona
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-6-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Practice
+DESCRIPTION:Spielberg - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-6-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Qualifying
+DESCRIPTION:Spielberg - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-6-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Sprint Race
+DESCRIPTION:Spielberg - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-6-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Feature Race
+DESCRIPTION:Spielberg - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Spielberg
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-7-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Practice
+DESCRIPTION:Silverstone - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-7-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Qualifying
+DESCRIPTION:Silverstone - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-7-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Sprint Race
+DESCRIPTION:Silverstone - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-7-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Feature Race
+DESCRIPTION:Silverstone - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Silverstone
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-8-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Practice
+DESCRIPTION:Spa-Francorchamps - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-8-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Qualifying
+DESCRIPTION:Spa-Francorchamps - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-8-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Sprint Race
+DESCRIPTION:Spa-Francorchamps - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-8-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Feature Race
+DESCRIPTION:Spa-Francorchamps - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Spa-Francorchamps, Belgium
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Spa-Francorchamps
+X-COUNTRY:BE
+X-CIRCUIT:Circuit de Spa-Francorchamps
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-9-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART:20260724T090500Z
+DTEND:20260724T095000Z
+SUMMARY:Practice
+DESCRIPTION:Budapest - Practice
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-9-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART:20260724T140500Z
+DTEND:20260724T143500Z
+SUMMARY:Qualifying
+DESCRIPTION:Budapest - Qualifying
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-9-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART:20260725T121500Z
+DTEND:20260725T130500Z
+SUMMARY:Sprint Race
+DESCRIPTION:Budapest
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-9-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART:20260726T092500Z
+DTEND:20260726T103000Z
+SUMMARY:Feature Race
+DESCRIPTION:Budapest
+LOCATION:Hungaroring, Hungary
+STATUS:CONFIRMED
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Budapest
+X-COUNTRY:HU
+X-CIRCUIT:Hungaroring
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-10-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Practice
+DESCRIPTION:Monza - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-10-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Qualifying
+DESCRIPTION:Monza - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-10-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Sprint Race
+DESCRIPTION:Monza - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-10-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Feature Race
+DESCRIPTION:Monza - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Nazionale Monza, Italy
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Monza
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Nazionale Monza
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-11-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practice
+DESCRIPTION:Madrid - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-11-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Qualifying
+DESCRIPTION:Madrid - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-11-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Sprint Race
+DESCRIPTION:Madrid - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-11-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Feature Race
+DESCRIPTION:Madrid - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MADRING, Spain
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Madrid
+X-COUNTRY:ES
+X-CIRCUIT:MADRING
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-12-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Practice
+DESCRIPTION:Baku - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Baku City Circuit, Azerbaijan
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Baku
+X-COUNTRY:AZ
+X-CIRCUIT:Baku City Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-12-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Qualifying
+DESCRIPTION:Baku - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Baku City Circuit, Azerbaijan
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Baku
+X-COUNTRY:AZ
+X-CIRCUIT:Baku City Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-12-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sprint Race
+DESCRIPTION:Baku - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Baku City Circuit, Azerbaijan
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Baku
+X-COUNTRY:AZ
+X-CIRCUIT:Baku City Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-12-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Feature Race
+DESCRIPTION:Baku - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Baku City Circuit, Azerbaijan
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Baku
+X-COUNTRY:AZ
+X-CIRCUIT:Baku City Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-13-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Practice
+DESCRIPTION:Lusail - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Lusail
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-13-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Qualifying
+DESCRIPTION:Lusail - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Lusail
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-13-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Sprint Race
+DESCRIPTION:Lusail - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Lusail
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-13-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Feature Race
+DESCRIPTION:Lusail - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Lusail
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-14-0-practice@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Practice
+DESCRIPTION:Yas Marina - Practice - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Yas Marina Circuit, United Arab Emirates
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Yas Marina
+X-COUNTRY:AE
+X-CIRCUIT:Yas Marina Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-14-0-qualifying@motorsport-calendar
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Qualifying
+DESCRIPTION:Yas Marina - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Yas Marina Circuit, United Arab Emirates
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Yas Marina
+X-COUNTRY:AE
+X-CIRCUIT:Yas Marina Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-14-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Sprint Race
+DESCRIPTION:Yas Marina - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Yas Marina Circuit, United Arab Emirates
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Sprint Race
+X-EVENT-NAME:Yas Marina
+X-COUNTRY:AE
+X-CIRCUIT:Yas Marina Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:formula2-14-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Feature Race
+DESCRIPTION:Yas Marina - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Yas Marina Circuit, United Arab Emirates
+STATUS:TENTATIVE
+CATEGORIES:Formula 2
+X-CHAMPIONSHIP:Formula 2
+X-SESSION-TYPE:Feature Race
+X-EVENT-NAME:Yas Marina
+X-COUNTRY:AE
+X-CIRCUIT:Yas Marina Circuit
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#030504">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Yarış Takvimi">
+  <meta name="description" content="2026 Dünya Motor Sporları Takvimi">
+  <title>2026 FIA FIM Şampiyona Takvimi</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/app-icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/app-icons/icon-192.png">
+  <link rel="stylesheet" href="assets/css/main.css?v=8">
+</head>
+<body>
+  <div class="wrap">
+    <header class="mobile-header" aria-label="Mobil başlık">
+      <button class="language-button mobile-language-button" type="button" data-language="tr" aria-label="Türkçe" aria-pressed="true"><img src="assets/img/flags/tr.svg" alt=""></button>
+      <h1 id="mobile-title">FIA FIM ŞAMPİYONA TAKVİMİ</h1>
+      <button class="language-button mobile-language-button" type="button" data-language="en" aria-label="English" aria-pressed="false"><img src="assets/img/flags/gb.svg" alt=""></button>
+    </header>
+    <header class="hero">
+      <img class="flag-wave-bg" src="assets/img/banner/checkered-flag-wave.gif" alt="">
+      <div class="hero-top">
+        <div class="title-area">
+          <h1 id="hero-title"><span>FIA</span> &amp; <span>FIM</span><br>Şampiyona Takvimi</h1>
+          <p id="season-subtitle" class="season-sub">2026 sezonu • tüm yarışlar tek yerde</p>
+        </div>
+
+        <div class="clock-area">
+          <div class="language-switch" aria-label="Dil seçimi">
+            <button class="language-button active" type="button" data-language="tr" aria-label="Türkçe" aria-pressed="true"><img src="assets/img/flags/tr.svg" alt=""></button>
+            <button class="language-button" type="button" data-language="en" aria-label="English" aria-pressed="false"><img src="assets/img/flags/gb.svg" alt=""></button>
+          </div>
+          <div class="clock-panel" aria-label="Yerel saat">
+            <i class="clock-screw s1"></i><i class="clock-screw s2"></i><i class="clock-screw s3"></i><i class="clock-screw s4"></i>
+            <div id="clock-head" class="clock-head">Rally Clock • Yerel Saat</div>
+            <strong id="local-clock" class="retro-time">--:--:--</strong>
+            <div class="clock-meta">
+              <span id="local-date">--</span>
+              <span id="local-zone">--</span>
+            </div>
+            <div class="utc-clock-line">
+              <span class="utc-label">UTC</span>
+              <strong id="utc-clock">--:--</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="series-marquee" aria-label="Şampiyonalar">
+        <div class="series-track">
+          <div class="series-set">
+          <span class="series-badge"><img src="assets/img/series/f1.webp" alt="Formula 1"></span>
+          <span class="series-badge"><img src="assets/img/series/f2.webp" alt="Formula 2"></span>
+          <span class="series-badge"><img src="assets/img/series/f3.svg" alt="Formula 3"></span>
+          <span class="series-badge"><img src="assets/img/series/fe.webp" alt="Formula E"></span>
+          <span class="series-badge logo-light"><img src="assets/img/series/motogp.webp" alt="MotoGP"></span>
+          <span class="series-badge"><img src="assets/img/series/moto2.svg" alt="Moto2"></span>
+          <span class="series-badge"><img src="assets/img/series/moto3.svg" alt="Moto3"></span>
+          <span class="series-badge"><img src="assets/img/series/wec.png" alt="WEC"></span>
+          <span class="series-badge logo-light"><img src="assets/img/series/wrc.webp" alt="WRC"></span>
+          <span class="series-badge"><img src="assets/img/series/24h.webp" alt="24H Series"></span>
+          <span class="series-badge"><img src="assets/img/series/wsbk.svg" alt="WorldSBK"></span>
+          <span class="series-badge"><img src="assets/img/series/wssp.svg" alt="WorldSSP"></span>
+          <span class="series-badge"><img src="assets/img/series/nascar.svg" alt="NASCAR Cup Series"></span>
+          <span class="series-badge"><img src="assets/img/series/indycar.svg" alt="IndyCar"></span>
+          <span class="series-badge"><img src="assets/img/series/dakar.svg" alt="Dakar Rally"></span>
+          </div>
+          <div class="series-set" aria-hidden="true">
+          <span class="series-badge"><img src="assets/img/series/f1.webp" alt="Formula 1"></span>
+          <span class="series-badge"><img src="assets/img/series/f2.webp" alt="Formula 2"></span>
+          <span class="series-badge"><img src="assets/img/series/f3.svg" alt="Formula 3"></span>
+          <span class="series-badge"><img src="assets/img/series/fe.webp" alt="Formula E"></span>
+          <span class="series-badge logo-light"><img src="assets/img/series/motogp.webp" alt="MotoGP"></span>
+          <span class="series-badge"><img src="assets/img/series/moto2.svg" alt="Moto2"></span>
+          <span class="series-badge"><img src="assets/img/series/moto3.svg" alt="Moto3"></span>
+          <span class="series-badge"><img src="assets/img/series/wec.png" alt="WEC"></span>
+          <span class="series-badge logo-light"><img src="assets/img/series/wrc.webp" alt="WRC"></span>
+          <span class="series-badge"><img src="assets/img/series/24h.webp" alt="24H Series"></span>
+          <span class="series-badge"><img src="assets/img/series/wsbk.svg" alt="WorldSBK"></span>
+          <span class="series-badge"><img src="assets/img/series/wssp.svg" alt="WorldSSP"></span>
+          <span class="series-badge"><img src="assets/img/series/nascar.svg" alt="NASCAR Cup Series"></span>
+          <span class="series-badge"><img src="assets/img/series/indycar.svg" alt="IndyCar"></span>
+          <span class="series-badge"><img src="assets/img/series/dakar.svg" alt="Dakar Rally"></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="section week-section">
+        <div class="week-toolbar">
+          <button id="previous-period" class="week-side week-side-left" aria-label="Önceki dönem"></button>
+          <h2 id="period-title" class="week-label">Takvim yükleniyor…</h2>
+          <button id="next-period" class="week-side week-side-right" aria-label="Sonraki dönem"></button>
+        </div>
+        <section id="calendar-grid" class="calendar-grid" aria-live="polite"></section>
+      </section>
+      <section class="mobile-clock-section" aria-label="Yerel saat">
+        <div class="clock-panel mobile-clock-panel">
+          <i class="clock-screw s1"></i><i class="clock-screw s2"></i><i class="clock-screw s3"></i><i class="clock-screw s4"></i>
+          <div class="clock-head" data-clock-head>Rally Clock • Yerel Saat</div>
+          <strong class="retro-time" data-local-clock>--:--:--</strong>
+          <div class="clock-meta">
+            <span data-local-date>--</span>
+            <span data-local-zone>--</span>
+          </div>
+          <div class="utc-clock-line">
+            <span class="utc-label">UTC</span>
+            <strong data-utc-clock>--:--</strong>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="section program-section">
+        <div class="program-head">
+          <div class="section-head">
+            <h2 id="daily-heading">Günün Yarış Programı</h2>
+            <p id="program-date" class="program-date">--</p>
+          </div>
+        </div>
+        <div id="daily-program" class="daily-program" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <img class="footer-flag footer-flag-left" src="assets/img/flags/tr.svg" alt="Türkiye bayrağı">
+      <span id="footer-text">2026 Dünya Motor Sporları Takvimi • Tolga Aydın tarafından yapılmıştır.</span>
+      <a href="mailto:aydintolga@gmail.com">aydintolga@gmail.com</a>
+      <a class="instagram-link" href="https://www.instagram.com/ta2adn/" target="_blank" rel="noopener noreferrer"><img src="assets/img/icons/instagram.svg" alt="">@ta2adn</a>
+      <img class="footer-flag footer-flag-right" src="assets/img/flags/tr.svg" alt="Türkiye bayrağı">
+    </footer>
+  </div>
+
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
