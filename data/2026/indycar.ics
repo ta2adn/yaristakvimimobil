@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IndyCar 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:indycar-1-firestone-grand-prix-of-st-petersburg@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260301T170000Z
+DTEND:20260301T193000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Streets of St. Petersburg
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Firestone Grand Prix of St. Petersburg
+X-COUNTRY:US
+X-CIRCUIT:Streets of St. Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-2-good-ranchers-250@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260307T200000Z
+DTEND:20260307T223000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Phoenix Raceway
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Good Ranchers 250
+X-COUNTRY:US
+X-CIRCUIT:Phoenix Raceway
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-3-java-house-grand-prix-of-arlington@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260315T153000Z
+DTEND:20260315T180000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Streets of Arlington
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Java House Grand Prix of Arlington
+X-COUNTRY:US
+X-CIRCUIT:Streets of Arlington
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-4-children-s-of-alabama-indy-grand-prix@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260329T170000Z
+DTEND:20260329T193000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Barber Motorsports Park
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Children's of Alabama Indy Grand Prix
+X-COUNTRY:US
+X-CIRCUIT:Barber Motorsports Park
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-5-acura-grand-prix-of-long-beach@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260419T213000Z
+DTEND:20260420T000000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Streets of Long Beach
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Acura Grand Prix of Long Beach
+X-COUNTRY:US
+X-CIRCUIT:Streets of Long Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-6-sonsio-grand-prix@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260509T203000Z
+DTEND:20260509T230000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Indianapolis Motor Speedway Road Course
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Sonsio Grand Prix
+X-COUNTRY:US
+X-CIRCUIT:Indianapolis Motor Speedway Road Course
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-7-110th-indianapolis-500@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260524T140000Z
+DTEND:20260524T163000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Indianapolis Motor Speedway
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:110th Indianapolis 500
+X-COUNTRY:US
+X-CIRCUIT:Indianapolis Motor Speedway
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-8-chevrolet-detroit-grand-prix@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260531T163000Z
+DTEND:20260531T190000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Streets of Detroit
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Chevrolet Detroit Grand Prix
+X-COUNTRY:US
+X-CIRCUIT:Streets of Detroit
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-9-bommarito-automotive-group-500@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260608T010000Z
+DTEND:20260608T033000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:World Wide Technology Raceway
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Bommarito Automotive Group 500
+X-COUNTRY:US
+X-CIRCUIT:World Wide Technology Raceway
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-10-xpel-grand-prix-at-road-america@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260621T180000Z
+DTEND:20260621T203000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Road America
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:XPEL Grand Prix at Road America
+X-COUNTRY:US
+X-CIRCUIT:Road America
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-11-honda-indy-200-at-mid-ohio@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260705T163000Z
+DTEND:20260705T190000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Mid-Ohio Sports Car Course
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Honda Indy 200 at Mid-Ohio
+X-COUNTRY:US
+X-CIRCUIT:Mid-Ohio Sports Car Course
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-12-borchetta-bourbon-music-city-grand-prix@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260719T213000Z
+DTEND:20260720T000000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Nashville Superspeedway
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Borchetta Bourbon Music City Grand Prix
+X-COUNTRY:US
+X-CIRCUIT:Nashville Superspeedway
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-13-onlybulls-grand-prix-of-portland@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260809T200000Z
+DTEND:20260809T223000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Portland International Raceway
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:OnlyBulls Grand Prix of Portland
+X-COUNTRY:US
+X-CIRCUIT:Portland International Raceway
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-14-ontario-honda-dealers-indy-at-markham@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260816T160000Z
+DTEND:20260816T183000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Streets of Markham
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Ontario Honda Dealers Indy at Markham
+X-COUNTRY:CA
+X-CIRCUIT:Streets of Markham
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-15-freedom-250-grand-prix-of-washington-d-c@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar takviminde yarış saati TBD olarak listelenmiştir.
+LOCATION:Streets of Washington
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Freedom 250 Grand Prix of Washington\, D.C.
+X-COUNTRY:US
+X-CIRCUIT:Streets of Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-16-snap-on-makers-and-fixers-250@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260829T183000Z
+DTEND:20260829T210000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Milwaukee Mile
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Snap-on Makers and Fixers 250
+X-COUNTRY:US
+X-CIRCUIT:Milwaukee Mile
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-17-snap-on-milwaukee-mile-250@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260830T170000Z
+DTEND:20260830T193000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:Milwaukee Mile
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Snap-on Milwaukee Mile 250
+X-COUNTRY:US
+X-CIRCUIT:Milwaukee Mile
+END:VEVENT
+BEGIN:VEVENT
+UID:indycar-18-indycar-grand-prix-of-monterey@2026yaristakvimi
+DTSTAMP:20260721T123542Z
+DTSTART:20260906T183000Z
+DTEND:20260906T210000Z
+SUMMARY:Race
+DESCRIPTION:Resmî IndyCar 2026 yarış başlangıç saati. ET saatinden UTC'ye çevrilmiştir.
+LOCATION:WeatherTech Raceway Laguna Seca
+STATUS:CONFIRMED
+CATEGORIES:IndyCar
+X-CHAMPIONSHIP:IndyCar
+X-SESSION-TYPE:Race
+X-EVENT-NAME:INDYCAR Grand Prix of Monterey
+X-COUNTRY:US
+X-CIRCUIT:WeatherTech Raceway Laguna Seca
+END:VEVENT
+END:VCALENDAR
