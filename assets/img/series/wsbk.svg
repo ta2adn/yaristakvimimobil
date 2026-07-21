@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 70" role="img" aria-label="WorldSBK">
+<rect width="256" height="70" fill="none"/>
+<g transform="translate(10 10)">
+<text x="0" y="38" font-family="Arial Black,Arial,sans-serif" font-size="44" font-style="italic" font-weight="900" fill="#fff">SBK</text>
+<path fill="#e21b2d" d="M93 2h18L96 24l18 24H95L78 24z"/>
+<text x="126" y="28" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#fff">WORLD</text>
+<text x="126" y="48" font-family="Arial Black,Arial,sans-serif" font-size="20" font-style="italic" font-weight="900" fill="#e21b2d">SBK</text>
+</g></svg>

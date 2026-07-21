@@ -1,0 +1,1063 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Moto2 2026
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:moto2-1-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Practice
+DESCRIPTION:Grand Prix of Thailand - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Chang International Circuit, Thailand
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Grand Prix of Thailand
+X-COUNTRY:TH
+X-CIRCUIT:Chang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-1-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Qualifying
+DESCRIPTION:Grand Prix of Thailand - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Chang International Circuit, Thailand
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Grand Prix of Thailand
+X-COUNTRY:TH
+X-CIRCUIT:Chang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-1-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:Race
+DESCRIPTION:Grand Prix of Thailand - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Chang International Circuit, Thailand
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Grand Prix of Thailand
+X-COUNTRY:TH
+X-CIRCUIT:Chang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-2-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Practice
+DESCRIPTION:Grand Prix of Brazil - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Goiânia International Racetrack Ayrton Senna, Brazil
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Grand Prix of Brazil
+X-COUNTRY:BR
+X-CIRCUIT:Goiânia International Racetrack Ayrton Senna
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-2-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Qualifying
+DESCRIPTION:Grand Prix of Brazil - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Goiânia International Racetrack Ayrton Senna, Brazil
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Grand Prix of Brazil
+X-COUNTRY:BR
+X-CIRCUIT:Goiânia International Racetrack Ayrton Senna
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-2-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:Race
+DESCRIPTION:Grand Prix of Brazil - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Goiânia International Racetrack Ayrton Senna, Brazil
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Grand Prix of Brazil
+X-COUNTRY:BR
+X-CIRCUIT:Goiânia International Racetrack Ayrton Senna
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-3-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Practice
+DESCRIPTION:Grand Prix of the Americas - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit of the Americas, United States
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Grand Prix of the Americas
+X-COUNTRY:US
+X-CIRCUIT:Circuit of the Americas
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-3-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Qualifying
+DESCRIPTION:Grand Prix of the Americas - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit of the Americas, United States
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Grand Prix of the Americas
+X-COUNTRY:US
+X-CIRCUIT:Circuit of the Americas
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-3-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Race
+DESCRIPTION:Grand Prix of the Americas - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit of the Americas, United States
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Grand Prix of the Americas
+X-COUNTRY:US
+X-CIRCUIT:Circuit of the Americas
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Practice
+DESCRIPTION:Spanish Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuito de Jerez - Ángel Nieto, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez - Ángel Nieto
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Qualifying
+DESCRIPTION:Spanish Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuito de Jerez - Ángel Nieto, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez - Ángel Nieto
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Race
+DESCRIPTION:Spanish Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuito de Jerez - Ángel Nieto, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuito de Jerez - Ángel Nieto
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-5-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Practice
+DESCRIPTION:French Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Bugatti Circuit, France
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:French Grand Prix
+X-COUNTRY:FR
+X-CIRCUIT:Bugatti Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-5-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Qualifying
+DESCRIPTION:French Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Bugatti Circuit, France
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:French Grand Prix
+X-COUNTRY:FR
+X-CIRCUIT:Bugatti Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-5-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Race
+DESCRIPTION:French Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Bugatti Circuit, France
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:French Grand Prix
+X-COUNTRY:FR
+X-CIRCUIT:Bugatti Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-6-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Practice
+DESCRIPTION:Catalan Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Catalan Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-6-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Qualifying
+DESCRIPTION:Catalan Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Catalan Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-6-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Race
+DESCRIPTION:Catalan Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit de Barcelona-Catalunya, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Catalan Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit de Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-7-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Practice
+DESCRIPTION:Italian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Internazionale del Mugello, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Italian Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Internazionale del Mugello
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-7-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Qualifying
+DESCRIPTION:Italian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Internazionale del Mugello, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Italian Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Internazionale del Mugello
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-7-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Race
+DESCRIPTION:Italian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Autodromo Internazionale del Mugello, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Italian Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Autodromo Internazionale del Mugello
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-8-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Practice
+DESCRIPTION:Hungarian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Hungarian Grand Prix
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-8-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Qualifying
+DESCRIPTION:Hungarian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Hungarian Grand Prix
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-8-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Race
+DESCRIPTION:Hungarian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Balaton Park Circuit, Hungary
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Hungarian Grand Prix
+X-COUNTRY:HU
+X-CIRCUIT:Balaton Park Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-9-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Practice
+DESCRIPTION:Czech Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Brno Circuit, Czechia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Czech Grand Prix
+X-COUNTRY:CZ
+X-CIRCUIT:Brno Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-9-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Qualifying
+DESCRIPTION:Czech Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Brno Circuit, Czechia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Czech Grand Prix
+X-COUNTRY:CZ
+X-CIRCUIT:Brno Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-9-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Race
+DESCRIPTION:Czech Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Brno Circuit, Czechia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Czech Grand Prix
+X-COUNTRY:CZ
+X-CIRCUIT:Brno Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-10-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Practice
+DESCRIPTION:Dutch Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Dutch Grand Prix
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-10-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Qualifying
+DESCRIPTION:Dutch Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Dutch Grand Prix
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-10-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Race
+DESCRIPTION:Dutch Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:TT Circuit Assen, Netherlands
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Dutch Grand Prix
+X-COUNTRY:NL
+X-CIRCUIT:TT Circuit Assen
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-11-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Practice
+DESCRIPTION:German Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Sachsenring, Germany
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:German Grand Prix
+X-COUNTRY:DE
+X-CIRCUIT:Sachsenring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-11-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Qualifying
+DESCRIPTION:German Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Sachsenring, Germany
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:German Grand Prix
+X-COUNTRY:DE
+X-CIRCUIT:Sachsenring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-11-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Race
+DESCRIPTION:German Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Sachsenring, Germany
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:German Grand Prix
+X-COUNTRY:DE
+X-CIRCUIT:Sachsenring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-12-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Practice
+DESCRIPTION:British Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:British Grand Prix
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-12-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Qualifying
+DESCRIPTION:British Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:British Grand Prix
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-12-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Race
+DESCRIPTION:British Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Silverstone Circuit, United Kingdom
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:British Grand Prix
+X-COUNTRY:GB
+X-CIRCUIT:Silverstone Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-13-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Practice
+DESCRIPTION:Aragon Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MotorLand Aragón, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Aragon Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-13-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Qualifying
+DESCRIPTION:Aragon Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MotorLand Aragón, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Aragon Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-13-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Race
+DESCRIPTION:Aragon Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:MotorLand Aragón, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Aragon Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:MotorLand Aragón
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-14-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practice
+DESCRIPTION:San Marino Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:San Marino Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-14-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Qualifying
+DESCRIPTION:San Marino Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:San Marino Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-14-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Race
+DESCRIPTION:San Marino Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Misano World Circuit Marco Simoncelli, Italy
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:San Marino Grand Prix
+X-COUNTRY:IT
+X-CIRCUIT:Misano World Circuit Marco Simoncelli
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-15-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Practice
+DESCRIPTION:Austrian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Austrian Grand Prix
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-15-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Qualifying
+DESCRIPTION:Austrian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Austrian Grand Prix
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-15-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Race
+DESCRIPTION:Austrian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Red Bull Ring, Austria
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Austrian Grand Prix
+X-COUNTRY:AT
+X-CIRCUIT:Red Bull Ring
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-16-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Practice
+DESCRIPTION:Japanese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Mobility Resort Motegi, Japan
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Japanese Grand Prix
+X-COUNTRY:JP
+X-CIRCUIT:Mobility Resort Motegi
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-16-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Qualifying
+DESCRIPTION:Japanese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Mobility Resort Motegi, Japan
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Japanese Grand Prix
+X-COUNTRY:JP
+X-CIRCUIT:Mobility Resort Motegi
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-16-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Race
+DESCRIPTION:Japanese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Mobility Resort Motegi, Japan
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Japanese Grand Prix
+X-COUNTRY:JP
+X-CIRCUIT:Mobility Resort Motegi
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-17-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Practice
+DESCRIPTION:Indonesian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Pertamina Mandalika International Circuit, Indonesia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Indonesian Grand Prix
+X-COUNTRY:ID
+X-CIRCUIT:Pertamina Mandalika International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-17-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Qualifying
+DESCRIPTION:Indonesian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Pertamina Mandalika International Circuit, Indonesia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Indonesian Grand Prix
+X-COUNTRY:ID
+X-CIRCUIT:Pertamina Mandalika International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-17-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Race
+DESCRIPTION:Indonesian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Pertamina Mandalika International Circuit, Indonesia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Indonesian Grand Prix
+X-COUNTRY:ID
+X-CIRCUIT:Pertamina Mandalika International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-18-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Practice
+DESCRIPTION:Australian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Australian Grand Prix
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-18-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Qualifying
+DESCRIPTION:Australian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Australian Grand Prix
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-18-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Race
+DESCRIPTION:Australian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Phillip Island Grand Prix Circuit, Australia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Australian Grand Prix
+X-COUNTRY:AU
+X-CIRCUIT:Phillip Island Grand Prix Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-19-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Practice
+DESCRIPTION:Malaysian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Petronas Sepang International Circuit, Malaysia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Malaysian Grand Prix
+X-COUNTRY:MY
+X-CIRCUIT:Petronas Sepang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-19-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Qualifying
+DESCRIPTION:Malaysian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Petronas Sepang International Circuit, Malaysia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Malaysian Grand Prix
+X-COUNTRY:MY
+X-CIRCUIT:Petronas Sepang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-19-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Race
+DESCRIPTION:Malaysian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Petronas Sepang International Circuit, Malaysia
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Malaysian Grand Prix
+X-COUNTRY:MY
+X-CIRCUIT:Petronas Sepang International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-20-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Practice
+DESCRIPTION:Qatar Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Qatar Grand Prix
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-20-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Qualifying
+DESCRIPTION:Qatar Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Qatar Grand Prix
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-20-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Race
+DESCRIPTION:Qatar Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Lusail International Circuit, Qatar
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Qatar Grand Prix
+X-COUNTRY:QA
+X-CIRCUIT:Lusail International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-21-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Practice
+DESCRIPTION:Portuguese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Algarve International Circuit, Portugal
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Portuguese Grand Prix
+X-COUNTRY:PT
+X-CIRCUIT:Algarve International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-21-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Qualifying
+DESCRIPTION:Portuguese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Algarve International Circuit, Portugal
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Portuguese Grand Prix
+X-COUNTRY:PT
+X-CIRCUIT:Algarve International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-21-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Race
+DESCRIPTION:Portuguese Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Algarve International Circuit, Portugal
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Portuguese Grand Prix
+X-COUNTRY:PT
+X-CIRCUIT:Algarve International Circuit
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-22-0@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Practice
+DESCRIPTION:Valencian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Ricardo Tormo, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Practice
+X-EVENT-NAME:Valencian Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit Ricardo Tormo
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-22-1@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Qualifying
+DESCRIPTION:Valencian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Ricardo Tormo, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Qualifying
+X-EVENT-NAME:Valencian Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit Ricardo Tormo
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-22-2@motorsport-calendar-2026
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Race
+DESCRIPTION:Valencian Grand Prix - Saat programı kesinleştiğinde güncellenecektir.
+LOCATION:Circuit Ricardo Tormo, Spain
+STATUS:TENTATIVE
+CATEGORIES:Moto2
+X-CHAMPIONSHIP:Moto2
+X-SESSION-TYPE:Race
+X-EVENT-NAME:Valencian Grand Prix
+X-COUNTRY:ES
+X-CIRCUIT:Circuit Ricardo Tormo
+END:VEVENT
+END:VCALENDAR
